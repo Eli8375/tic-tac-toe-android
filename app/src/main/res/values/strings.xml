@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="tic_tac_toe"><b>Tic-Tac-Toe</b></string>
+    <string name="player_1"><u>Player 1</u></string>
+    <string name="player_2"><u>Player 2</u></string>
+    <string name="reset_score">Reset Score</string>
+    <string name="play_again">Play Again</string>
+    <string name="player_score">Score:</string>
+    <string name="about">About</string>
+    <string name="switch_profile">Switch Profile</string>
+</resources>
