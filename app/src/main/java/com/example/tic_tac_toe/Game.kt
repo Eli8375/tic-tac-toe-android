@@ -1,7 +1,5 @@
 package com.example.tic_tac_toe
 
-import android.util.Log
-
 class Game(private var player1: Player, private var player2: Player) {
     private var movesAvailable: Int = 9;
     private var locked: Boolean = false

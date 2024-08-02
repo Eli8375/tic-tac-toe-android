@@ -3,12 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item android:id="@+id/reset_score_bar"
-        android:title="@string/reset_score"
-        app:showAsAction="never"/>
-
-
-    <item android:id="@+id/play_again_bar"
-        android:title="@string/play_again"
-        app:showAsAction="never"/>
+        android:title="@string/about"
+        app:showAsAction="ifRoom"/>
 
 </menu>
